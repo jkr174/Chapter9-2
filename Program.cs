@@ -16,7 +16,7 @@ namespace KWSalesOrderFormProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmKWSales());
+            Application.Run(new grpProducts());
         }
     }
 }
